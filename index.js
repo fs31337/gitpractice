@@ -1,7 +1,6 @@
 alert("hola niños")
 
 const obj = {
-
-    nombre: "franco",
-    saludo: "que onda capos"
+    saludo: "que onda capos",
+    nombre: ["franco", "Eze", "no hice pull request para poner esto"]
 }
