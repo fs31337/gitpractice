@@ -1,6 +1,5 @@
 alert("hola niños")
 
 const obj = {
-
-    nombre: "franco"
+    francoS: "francoS"
 }
